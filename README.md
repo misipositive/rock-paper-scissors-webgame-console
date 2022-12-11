@@ -1,2 +1,3 @@
-# rock-paper-scissors-webgame-console
-Rock Paper Scissors a web console game
+Hello there! 
+
+This is a simple console only rock, paper and scissors game!
